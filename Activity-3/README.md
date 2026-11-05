@@ -6,3 +6,5 @@ My name is Snehashree, and I am studying Computer Science and Engineering. This 
 Skill : Learning C and Web development
 
 Interest : Cloud computing and Software design
+
+Goal : Contribute to open source
